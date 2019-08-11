@@ -1,0 +1,541 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Horizon'19</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i">
+    <link rel="stylesheet" href="http://css.adruy.com/fancybox/jquery.fancybox.css">
+    <link rel="stylesheet" href="http://css.adruy.com/owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="http://css.adruy.com/owl-carousel/owl.theme.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="assets/css/--mp---Testimonials-Slider.css?h=ef82fce714d32ddc40381f305322ad2b">
+    <link rel="stylesheet" href="assets/css/base.css?h=68eacb6e36b767d10f77177081a7313f">
+    <link rel="stylesheet" href="assets/css/Basic-fancyBox-Gallery-v2.css?h=bbbc45378b0a639db3659b8a3bd2f869">
+    <link rel="stylesheet" href="assets/css/Bold-BS4-Animated-Back-To-Top.css?h=ab1ba26fe20ad82e0d4da8d08f2a0d81">
+    <link rel="stylesheet" href="assets/css/Button-Hover-Animate.css?h=a6d19a0f54d3c529e62877bf3c786614">
+    <link rel="stylesheet" href="assets/css/Card-Carousel-1.css?h=d9ce4ffb7e6fb6b0eb1b95010276e3c6">
+    <link rel="stylesheet" href="assets/css/Card-Carousel.css?h=82b02d582b536e56e53eda48449816a0">
+    <link rel="stylesheet" href="assets/css/checkbox.css?h=a217a08cbaafaa643d208da0320b6764">
+    <link rel="stylesheet" href="assets/css/component-1.css?h=8bb4dc506b7c6327502a27229bcd6f27">
+    <link rel="stylesheet" href="assets/css/component.css?h=8bb4dc506b7c6327502a27229bcd6f27">
+    <link rel="stylesheet" href="assets/css/Countdown.css?h=66cde273e6a91a07dc9452e189cf6016">
+    <link rel="stylesheet" href="assets/css/dd-testimonials.css?h=a07914667f7b2437aacec7483587f7eb">
+    <link rel="stylesheet" href="assets/css/demo-1.css?h=ee960961dc3f62eb40537cc62ad84167">
+    <link rel="stylesheet" href="assets/css/demo.css?h=714b31ebc5ba29f7713842378afda291">
+    <link rel="stylesheet" href="assets/css/Dot-nav-scroll-with-label-1.css?h=160aa9fb420d250dd7435365c54bc24b">
+    <link rel="stylesheet" href="assets/css/Dot-nav-scroll-with-label.css?h=4ef8f33b2c9edc7fd24e2a6ed146975e">
+    <link rel="stylesheet" href="assets/css/Filterable-Gallery.css?h=fa3a8cb86612ce2e2cffb112b2e0f1d9">
+    <link rel="stylesheet" href="assets/css/Footer-Basic.css?h=7e6711a3715b8b0b570507c58d100f4c">
+    <link rel="stylesheet" href="assets/css/Footer-Clean.css?h=8f120d33c0bf092c48e3c98c6b1cd5d3">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css?h=7d482ee772e29210e0f79f7021378089">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
+    <link rel="stylesheet" href="assets/css/Pretty-Registration-Form.css?h=74cbd162836abb1eda12ebcad200c88a">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css">
+    <link rel="stylesheet" href="assets/css/Icon-Button.css?h=793d21c9f41f1d7f0c67ef3de4bca3ce">
+    <link rel="stylesheet" href="assets/css/input.css?h=4957ac94f7c958f9d552fcf49be22abf">
+    <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css?h=52dcc2765d6a81dffa1a2020f0da8a05">
+    <link rel="stylesheet" href="assets/css/Limpio---OwlCarousel2Fancybox---wwwadruycom.css?h=40efa64fc99ecde524d502d0b2cb78b9">
+    <link rel="stylesheet" href="assets/css/main.css?h=1eb852a11ebd61aef212b87a38943356">
+    <link rel="stylesheet" href="assets/css/Map-Clean.css?h=bdd15207233b27ebc7c6fc928c71b34c">
+    <link rel="stylesheet" href="assets/css/Media-Slider-Bootstrap-3-1.css?h=19a23a76db303beffcbcf0543e2de68a">
+    <link rel="stylesheet" href="assets/css/Media-Slider-Bootstrap-3.css?h=8e78348a3de7cc2e8307d896fa8f76f4">
+    <link rel="stylesheet" href="assets/css/menu.css?h=32101ce3e49ea40a78217b9020ce3ebc">
+    <link rel="stylesheet" href="assets/css/MUSA_carousel-product-cart-slider-1.css?h=1f3c2fc4c78f50f48ba28f41ab64738a">
+    <link rel="stylesheet" href="assets/css/MUSA_carousel-product-cart-slider.css?h=1f3c2fc4c78f50f48ba28f41ab64738a">
+    <link rel="stylesheet" href="assets/css/normalize.css?h=f82acc2d7ca7958dadbbc8de892b22f8">
+    <link rel="stylesheet" href="assets/css/preloader.css?h=c7c2225a0d46165ec41f1e7fdc9fa1bb">
+    <link rel="stylesheet" href="assets/css/rocket.css?h=5361cb9e5b9bcbcc0d4666ecf5a73959">
+    <link rel="stylesheet" href="assets/css/Simple-Slider.css?h=d0219659ebe6ddabdb42f9dfc85aeb6d">
+    <link rel="stylesheet" href="assets/css/Social-Icon-Circle.css?h=fe9ba79eb8a074e79e0f83b159657081">
+    <link rel="stylesheet" href="assets/css/Social-Icons.css?h=0f9a464676f49120048997381494874d">
+    <link rel="stylesheet" href="assets/css/styles.css?h=121b2ae8736d54a0316f9ca15990af75">
+    <link rel="stylesheet" href="assets/css/Testimonial-Slider-9-1.css?h=8cb006b391126a96da540624b870e59e">
+    <link rel="stylesheet" href="assets/css/Testimonial-Slider-9.css?h=a7c80508f52986c6d84e5ef7a122a550">
+    <link rel="stylesheet" href="assets/css/Testimonials.css?h=33403b915e080d0d25db57d976decd4f">
+    <link rel="stylesheet" href="assets/css/testimonialSlider-1.css?h=6b86265e4bad316317fb4428f0c89744">
+    <link rel="stylesheet" href="assets/css/testimonialSlider.css?h=6b86265e4bad316317fb4428f0c89744">
+    <link rel="icon" href="assets/img/favicon.png" type="image/png" sizes="256x256">
+    <link rel="stylesheet"  href="sg1.css">
+
+</head>
+
+<body>
+    <section id="main_menu_wrapper">
+        <section id="menu_wrapper">
+            <div class="row d-lg-flex justify-content-xl-center" id="menu_container">
+                <div class="col-lg-3 col-xl-4" id="main_menu_column1"><a href="https://horizon19.com">home</a><a href="about_us.html">about us</a><a href="workshop.html">workshop</a><a href="event-register.html">register</a></div>
+                <div class="col-lg-6 d-lg-flex justify-content-lg-center align-items-lg-center align-items-xl-center"
+                    id="main_menu_column3">
+                    <div class="row d-lg-flex justify-content-lg-center align-items-lg-center">
+                        <div class="col d-lg-flex">
+                            <div class="link-container">
+                                <div class="d-lg-flex justify-content-lg-center"><a class="btn btn-primary d-lg-flex align-items-lg-center justify-content-xl-center menu_social_links" role="button" href="https://www.facebook.com/saintgits.Horizon/" target="_blank"><i class="fab fa-facebook"></i>Facebook</a></div>
+                                <div
+                                    class="d-lg-flex justify-content-lg-center"><a class="btn btn-primary d-lg-flex align-items-lg-center justify-content-xl-center menu_social_links" role="button" href="https://www.instagram.com/horizon.live/" target="_blank"><i class="fab fa-instagram"></i>Instagram</a></div>
+                            <div
+                                class="d-lg-flex justify-content-lg-center"><a class="btn btn-primary d-lg-flex align-items-lg-center justify-content-xl-center menu_social_links" role="button" href="#" id="playstore"><i class="fab fa-google-play"></i>Playstore</a></div>
+                    </div>
+                </div>
+            </div>
+            </div>
+            </div>
+            <div id="stars1"></div>
+        </section><nav>
+<div class="menu_container" onclick="menu()" id="nav_bar">
+    <div class="bar1"></div>
+    <div class="bar2"></div>
+    <div class="bar3"></div>
+</div>
+</nav>
+        <div class="saintgits-logo-container"><img src="assets/img/saintgits_logo.png?h=bb5dd46b4cf360310e1ac85e3802ceb8" id="saintgits-logo"></div>
+        <div id="stars1"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+    </section><div id="loader-container" class="loader">
+    <div class="cssload-bell">
+	<div class="cssload-circle">
+
+		<div class="cssload-inner"></div>
+	</div>
+	<div class="cssload-circle">
+		<div class="cssload-inner"></div>
+	</div>
+	<div class="cssload-circle">
+		<div class="cssload-inner"></div>
+	</div>
+	<div class="cssload-circle">
+		<div class="cssload-inner"></div>
+	</div>
+	<div class="cssload-circle">
+		<div class="cssload-inner"></div>
+	</div>
+</div>
+</div>
+    <section id="landing_page" class="wrapper scroll">
+        <div id="stars1"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+        <div id="star" class="star">
+            <div class="shooting_stars"></div>
+        </div>
+        <div id="college_title">
+            <h5>Saintgits College Of Engineering<br></h5>
+            <h5>DEPARTMENT OF ELECTRONICS AND COMMUNICATION<br></h5>
+        </div>
+        <div id="landing_wrapper"><img src="assets/img/astronaut-pic.png?h=05ffd3ebe779c357f5282d45237dff1d" id="astronaut_img">
+            <div id="landing">
+                <h1 id="horizon">HORIZON</h1>
+                <h4 id="horizon_tag" class="horizon_tag">TO INFINITY AND BEYOND<br></h4>
+            </div>
+            <div id="logo-container"><img src="assets/img/bg-logo.png?h=7a99441589c1997c576073fe8759e9c3"></div>
+        </div>
+        <div class="landing-content">
+            <div class="bar_blue"></div>
+            <div class="row">
+                <div class="col d-lg-flex justify-content-lg-center details-col">
+                    <div id="details-landing">
+                        <h2>Rs. 50,000<br></h2>
+                        <p>Worth Prizes<br></p>
+                    </div>
+                </div>
+                <div class="col d-flex d-lg-flex justify-content-center justify-content-lg-center details-col">
+                    <div id="details-landing">
+                        <h2 class="d-flex d-xl-flex justify-content-center justify-content-xl-center">10</h2>
+                        <p>Events<br></p>
+                    </div>
+                </div>
+                <div class="col d-flex d-sm-flex d-lg-flex justify-content-end justify-content-sm-end justify-content-lg-center details-col">
+                    <div id="details-landing">
+                        <h2 class="d-flex d-sm-flex justify-content-end justify-content-sm-end">AUG 16,17<br></h2>
+                        <p class="d-xl-flex justify-content-xl-end">Save the date<br></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="horizon-aboutus">
+        <div class="d-flex d-sm-flex d-xl-flex justify-content-center justify-content-sm-center align-items-sm-center justify-content-xl-center our_team_container">
+            <h1 class="text-center d-sm-flex d-xl-flex team_horizon_heading" id="team_horizon_heading">COUNTDOWN</h1>
+        </div>
+        <div class="container" id="about_container">
+            <div class="row d-flex justify-content-center about-horizon" id="about-horizon">
+                <div class="col-sm-8 col-md-4 offset-xl-0 d-sm-flex d-lg-flex justify-content-sm-center justify-content-lg-center align-items-xl-center">
+                    <h1 class="d-sm-flex d-lg-flex justify-content-sm-center align-items-md-center" id="about_us_cosmos">Horizon:<br>The Event is LIVE in<br></h1>
+                </div>
+                <div class="col-9 col-sm-6 col-md-8 col-xl-6 offset-xl-0 d-flex d-xl-flex justify-content-xl-center align-items-xl-center">
+                    <!-- Start: Countdown -->
+                    <section class="d-xl-flex countdown-section">
+                        <div class="container">
+                            <div class="row d-flex float-none flex-shrink-1 justify-content-sm-center justify-content-xl-center big-countdown" data-countdown="08/16/2019 09:30:00">
+                                <div class="col-6 col-sm-3 col-lg-2 col-xl-3 offset-1 offset-sm-0 timer_block"><span class="number-days timer_details">00</span><span class="txt-countdown">days </span></div>
+                                <div class="col-6 col-sm-3 col-lg-2 offset-2"><span class="number-hours timer_details">00</span><span class="txt-countdown">hours </span></div>
+                            </div>
+                            <div class="row d-flex float-none flex-shrink-1 justify-content-sm-center justify-content-xl-center big-countdown" data-countdown="08/16/2019 09:30:00">
+                                <div class="col-6 col-sm-3 col-lg-2"><span class="number-minutes timer_details">00</span><span class="txt-countdown">minutes </span></div>
+                                <div class="col-6 col-sm-3 col-lg-2"><span class="number-seconds timer_details">00</span><span class="txt-countdown">seconds </span></div>
+                            </div>
+                        </div>
+                    </section>
+                    <!-- End: Countdown -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Start: Simple Slider -->
+    <div id="team_container" class="simple-slider">
+        <div class="d-flex d-sm-flex d-xl-flex justify-content-center justify-content-sm-center align-items-sm-center justify-content-xl-center our_team_container">
+            <h1 class="text-center d-sm-flex d-xl-flex team_horizon_heading">OUR TEAM</h1>
+        </div>
+        <h1 class="team_horizon_title">Core Committee</h1>
+        <div class="container team_container">
+            <div class="row member_row">
+                <div class="col member_column empty" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500" data-aos-once="true"></div>
+                <div class="col member_column">
+                    <div class="card team_card"><img class="card-img w-100 d-block" src="assets/img/joel.jpg?h=9584286538d94082d79a1b94a75f8e2d">
+                        <div class="card-img-overlay flex-row">
+                            <div class="member_socialmedia"><a href="#"><i class="fab fa-linkedin-in linked_in"></i></a><a href="#"><i class="fa fa-instagram instagram_link"></i></a><a href="#"><i class="fab fa-facebook-square facebook_link"></i></a><a href="#"><i class="fab fa-twitter twitter_link"></i></a></div>
+                            <div
+                                class="row">
+                                <div class="col align-self-end">
+                                    <h4 class="d-block member_name">Joel Abraham</h4>
+                                    <p class="d-block member_position">Project Manager</p>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col member_column empty" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="700" data-aos-once="true"></div>
+        </div>
+        <div class="row member_row">
+            <div class="col member_column">
+                <div class="card team_card"><img class="card-img w-100 d-block" src="assets/img/sandeep.jpg?h=01a40a72d9d0da754aaba98406f5feae">
+                    <div class="card-img-overlay flex-row">
+                        <div class="member_socialmedia"><a href="#"><i class="fab fa-linkedin-in linked_in"></i></a><a href="#"><i class="fa fa-instagram instagram_link"></i></a><a href="#"><i class="fab fa-facebook-square facebook_link"></i></a><a href="#"><i class="fab fa-twitter twitter_link"></i></a></div>
+                        <div
+                            class="row">
+                            <div class="col align-self-end">
+                                <h4 class="d-block d-lg-flex align-items-lg-start member_name"><strong>Sandeep Narayanan</strong><br></h4>
+                                <p class="d-block member_position">APM</p>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col member_column">
+            <div class="card team_card"><img class="card-img w-100 d-block" src="assets/img/varsha.jpg?h=fb3bbae2879556b56bf56ae2576bfa07">
+                <div class="card-img-overlay flex-row">
+                    <div class="member_socialmedia"><a href="#"><i class="fab fa-linkedin-in linked_in"></i></a><a href="#"><i class="fa fa-instagram instagram_link"></i></a><a href="#"><i class="fab fa-facebook-square facebook_link"></i></a><a href="#"><i class="fab fa-twitter twitter_link"></i></a></div>
+                    <div
+                        class="row">
+                        <div class="col align-self-end">
+                            <h4 class="d-block member_name">Varsha Susan Johns<br></h4>
+                            <p class="d-block member_position">APM</p>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col member_column">
+        <div class="card team_card"><img class="card-img w-100 d-block" src="assets/img/justin.jpg?h=854f8b8a55359afb6791acea475e1f4b">
+            <div class="card-img-overlay flex-row">
+                <div class="member_socialmedia"><a href="#"><i class="fab fa-linkedin-in linked_in"></i></a><a href="#"><i class="fa fa-instagram instagram_link"></i></a><a href="#"><i class="fab fa-facebook-square facebook_link"></i></a><a href="#"><i class="fab fa-twitter twitter_link"></i></a></div>
+                <div
+                    class="row">
+                    <div class="col align-self-end">
+                        <h4 class="d-block member_name">Justin Eapen</h4>
+                        <p class="d-block member_position">Treasurer</p>
+                    </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    <div class="d-flex d-sm-flex d-md-flex d-lg-flex d-xl-flex justify-content-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center justify-content-xl-center more"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex d-xl-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center justify-content-xl-center align-items-xl-center view_more more_btn"
+            role="button" href="team.html">VIEW ALL&nbsp;<i class="la la-arrow-right"></i></a></div>
+    </div>
+    </div>
+    <!-- End: Simple Slider -->
+    <section id="events_horizon_section" class="scroll">
+        <div id="events_horizon_container">
+            <div class="container" id="events_container">
+                <div class="d-flex d-sm-flex d-xl-flex justify-content-center justify-content-sm-center align-items-sm-center justify-content-xl-center our_team_container">
+                    <h1 class="text-center d-sm-flex d-xl-flex team_horizon_heading">OUR EVENTS</h1>
+                </div>
+                <h1 id="events_horizon_title">Event Schedule</h1>
+                <div id="events_horizon_tab_container">
+                    <ul class="nav nav-tabs">
+                        <li class="nav-item"><a class="nav-link active" role="tab" data-toggle="tab" href="#tab-1" id="events_tab1">Friday<p>August 16, 2019</p></a></li>
+                        <li class="nav-item"><a class="nav-link" role="tab" data-toggle="tab" href="#tab-2" id="events_tab2">Saturday<p>August 17, 2019</p></a></li>
+                    </ul>
+                    <div class="tab-content">
+                        <div class="tab-pane active" role="tabpanel" id="tab-1">
+                            <div class="row d-xl-flex align-content-center events_tab">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/fun-tech-small.png?h=5c51dc6073eab941ab994d6e127e73c2" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1><strong>ZEST</strong><br></h1>
+                                    <h6>Fun &amp; Tech</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>16 Aug, 2019 &nbsp;10:30 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>SB 301</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-zest-fun-tech.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                            <div class="row d-xl-flex align-content-center events_tab">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/lab-hunt-small.png?h=93e217577175802b3ff50544b5ca0a4f" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1><strong>ENDURANCE</strong><br></h1>
+                                    <h6>Lab Hunt</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>16 Aug, 2019 &nbsp;09:30 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>EC 203</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-endurance-lab-hunt.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                            <div class="row d-xl-flex align-content-center events_tab">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/best-engineer-min.png?h=126b7c5a3f9e65038b25bf9271aff0bf" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1>CALYPSO<br></h1>
+                                    <h6>Best Engineer</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>16 Aug, 2019 &nbsp;09:45 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>SB 201</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-calypso-best-engineer.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                            <div class="row d-xl-flex align-content-center events_tab">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/vr-gaming-min.png?h=ef66fb569b42d0f12b36bafd81c2bf68" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1>ROG</h1>
+                                    <h6>VR Gaming</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>16 Aug, 2019 &nbsp;09:30 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>SB 106</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-rog-vr-gaming-day1.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                            <div class="row d-xl-flex align-content-center events_tab">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/concept-ppt-small.png?h=1c189d7f83b104d8533d98f76859594c" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1>Orion</h1>
+                                    <h6>Idea Presentation</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>16 Aug, 2019 &nbsp;09:30 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>AB Seminar Hall</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-orion-idea-presentation.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                            <div class="row d-xl-flex align-content-center events_tab">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/informals-small.png?h=5ee7c980a6efec09d2e26c6be93d6e35" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1>DEBRIS</h1>
+                                    <h6>Informals</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>16 Aug, 2019 &nbsp;09:30 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>SB 205</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-debirs-informals.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" role="tabpanel" data-aos="fade-up" data-aos-duration="350" data-aos-delay="400" id="tab-2">
+                            <div class="row d-xl-flex align-content-center events_tab" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="350" data-aos-once="true">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/treasure-hunt-min.png?h=eb5e39569e09b79a0cb331523b6ec9d5" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1>CURIOSITY</h1>
+                                    <h6>Treasure Hunt</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>17 Aug, 2019 &nbsp;10:00 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>SB 301</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-curiosity-treasure-hunt.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                            <div class="row d-xl-flex align-content-center events_tab" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="350" data-aos-once="true">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/star-of-horizon-min.png?h=a73a7ef5d26da683483530ad2ebacc4c" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1>SUPERNOVA</h1>
+                                    <h6>Star of Horizon</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>17 Aug, 2019 &nbsp;09:30 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>Cultural Centre</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-supernova-star-of-horizon.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                            <div class="row d-xl-flex align-content-center events_tab" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="350" data-aos-once="true">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/circuit-debugging-min.png?h=b22fd9f94f6f5e1bbc354b14b27080b8" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1>GENESIS</h1>
+                                    <h6>Circuit Debugging</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>17 Aug, 2019 09:30 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>EC 203</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-genesis-circuit-debugging.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                            <div class="row d-xl-flex align-content-center events_tab" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="350" data-aos-once="true">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/csi-min.png?h=042d6cff8ccd908b1961486796438032" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1>NEMISIS</h1>
+                                    <h6>Crime Scene Investigation</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>17 Aug, 2019 &nbsp;10:30 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>AB Seminar Hall</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-nemisis-csi.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                            <div class="row d-xl-flex align-content-center events_tab" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="350" data-aos-once="true">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/quiz-min.png?h=be14dc2eea8423e5d8af50f28abc10c3" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1>ANDROMEDA</h1>
+                                    <h6>Space Quiz</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>17 Aug, 2019 &nbsp;10:00 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>SB 201</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-andromeda-tech-quiz.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                            <div class="row d-xl-flex align-content-center events_tab" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="350" data-aos-once="true">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/vr-gaming-min.png?h=ef66fb569b42d0f12b36bafd81c2bf68" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1>ROG<br></h1>
+                                    <h6>VR Gaming</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>17 Aug, 2019 &nbsp;09:30 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>SB 106</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-rog-vr-gaming-day2.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                            <div class="row d-xl-flex align-content-center events_tab" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="350" data-aos-once="true">
+                                <div class="col offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-0 d-xl-flex flex-grow-0 flex-shrink-0"><img src="assets/img/informals-small.png?h=5ee7c980a6efec09d2e26c6be93d6e35" class="events_img"></div>
+                                <div class="col-7 col-md-3 col-lg-3 col-xl-3 offset-0 offset-xl-0 align-self-center">
+                                    <h1>DEBRIS</h1>
+                                    <h6>Informals</h6>
+                                </div>
+                                <div class="col-12 col-md-3 col-lg-3 col-xl-3 offset-0 offset-md-0 offset-xl-0 align-self-center event_time_venue">
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">alarm</i>17 Aug, 2019 &nbsp;09:30 AM</p>
+                                    <p class="d-flex d-md-flex align-items-center align-items-md-center"><i class="material-icons">map</i>SB 205</p>
+                                </div>
+                                <div class="col-9 col-sm-6 col-md-3 col-lg-3 offset-2 offset-sm-3 offset-md-0 offset-lg-1 offset-xl-1 d-md-flex d-lg-flex d-xl-flex flex-grow-0 justify-content-md-end align-items-md-center align-items-lg-center justify-content-xl-end align-items-xl-center"><a class="btn btn-primary d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center view_more"
+                                        role="button" href="events/event-debirs-informals-day2.html">VIEW MORE &nbsp;<i class="la la-arrow-right d-lg-flex"></i>&nbsp;</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="download_button_container"><a class="btn btn-primary" role="button" href="/assets/others/Horizon-Schedule.pdf" id="events_details_download" download>DOWNLOAD SCHEDULE (PDF)</a></div>
+    </section>
+    <!-- Start: Footer Dark -->
+    <div class="footer-dark">
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <!-- Start: Footer Text -->
+                    <div class="col-md-4 col-lg-4 col-xl-4 item text">
+                        <h3>HORIZON</h3>
+                        <p class="d-xl-flex footer-title">National Level Technical Fest organized by Electronics and Communication Department of Saintgits College of Engineering filled with stunning displays of skill and mental prowess.</p>
+                    </div>
+                    <!-- End: Footer Text -->
+                    <!-- Start: Services -->
+                    <div class="col-12 col-sm-6 col-md-3 col-lg-4 col-xl-4 item" id="contact">
+                        <h3>Contact</h3>
+                        <ul>
+                            <li><a class="d-lg-flex align-items-lg-center" href="https://saintgits.org/" target="_blank"><i class="material-icons">location_on</i>Saintgits College Of Engineering</a><a class="d-lg-flex align-items-lg-center"><i class="material-icons">phone</i>9562154703</a>
+                                <a
+                                    class="d-lg-flex align-items-lg-center"><i class="material-icons">mail</i><span class="__cf_email__" data-cfemail="0a676b63664a626578637065643b3324696567">[email&#160;protected]</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- End: Services -->
+                    <!-- Start: About -->
+                    <div class="col-12 col-sm-6 col-md-5 col-lg-4 col-xl-4 item">
+                        <h3>Gallery</h3>
+                        <div class="row footer_gallery_wrapper">
+                            <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4"><img src="assets/img/gallery1.png?h=b0cb9e4e6d9fb4378a69ac8fb24a801b" class="footer_img"></div>
+                            <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4"><img src="assets/img/gallery2.png?h=da1bbf3140202871aaa5dcefe85ae571" class="footer_img"></div>
+                            <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4"><img src="assets/img/gallery3.png?h=b431aa41469684e074af21c477958385" class="footer_img"></div>
+                        </div>
+                        <div class="row footer_gallery_wrapper">
+                            <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4"><img src="assets/img/gallery4.png?h=9c2a274819cc04119ac1055f7c2bbcba" class="footer_img"></div>
+                            <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4"><img src="assets/img/gallery5.png?h=f7bd3d40bbde6cec3fb9ef1719095a04" class="footer_img"></div>
+                            <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4"><img src="assets/img/gallery6.png?h=464b8d2c7b16c07c498bcbdf9e8adcd9" class="footer_img"></div>
+                        </div>
+                    </div>
+                    <!-- End: About -->
+                </div>
+                <!-- Start: Copyright -->
+                <p class="copyright">Horizon © 2019</p>
+                <!-- End: Copyright -->
+            </div>
+        </footer>
+    </div>
+    <!-- End: Footer Dark -->
+    <div id="top">
+        <!-- Start: Bold BS4 Animated Back To Top --><a href="#0" id="scroll_up" class="cd-top js-cd-top cd-top--fade-out cd-top--show">Top</a>
+        <!-- End: Bold BS4 Animated Back To Top -->
+    </div>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
+    <script src="http://layerslider.adruy.com/js/layerslider.kreaturamedia.jquery.js"></script>
+    <script src="assets/js/--mp---Testimonials-Slider.js?h=e415349b6c6983384a985df627213ecc"></script>
+    <script src="assets/js/Bold-BS4-Animated-Back-To-Top.js?h=25fe335c21086050d7d683aa1d563dd6"></script>
+    <script src="assets/js/bs-animation.js?h=cc4d20340936b09bec81533dd59db3a8"></script>
+    <script src="assets/js/Card-Carousel.js?h=3feb358dbd002c5018a80cc6f16a1d4d"></script>
+    <script src="assets/js/classie.js?h=a9df1cfb76ce492afd9d13f3320272fd"></script>
+    <script src="assets/js/Countdown.js?h=aef5ea6eb3ccc059f3a0168c7bd4f581"></script>
+    <script src="assets/js/demo.js?h=2bf083697ccdeb699e39bda278ab52c4"></script>
+    <script src="assets/js/Dot-nav-scroll-with-label.js?h=6dbb1a7808aabbd5e2c309578c934195"></script>
+    <script src="assets/js/Filterable-Gallery.js?h=42695a4de82d32a2ff9bcb0e68b2226f"></script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js"></script>
+    <script src="https://use.fontawesome.com/1744f3f671.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js?h=1a4b132632e8444a9d67a33668e195a5"></script>
+    <script src="assets/js/Media-Slider-Bootstrap-3.js?h=86a09e5d9fbb81e1e4c2e2e9312d8508"></script>
+    <script src="assets/js/menu.js?h=0e61fa0f49414eec008315c50103eb4f"></script>
+    <script src="assets/js/modernizr.min.js?h=c6b6e3cca19bd9cfe9159e63c0f6c9dc"></script>
+    <script src="assets/js/preloader.js?h=5cb4c9435321ac7476c2e39e7f586d39"></script>
+    <script src="assets/js/scroll.js?h=d41d8cd98f00b204e9800998ecf8427e"></script>
+    <script src="assets/js/Simple-Slider.js?h=df0233e38c69d965b7833f56606b8826"></script>
+    <script src="assets/js/social.js?h=d41d8cd98f00b204e9800998ecf8427e"></script>
+    <script src="assets/js/Testimonial-Slider-9.js?h=03dfe175abab87ac3ff87c02c60f2fa7"></script>
+    <script src="assets/js/testimonialSlider.js?h=0d4392e73948f69d7fb0f5e97e80d1a1"></script>
+    <script src="assets/js/TweenMax.min.js?h=4b0d7645edfb6f68c4aa331835960f86"></script>
+</body>
+
+</html>
